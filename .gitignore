@@ -1,0 +1,4 @@
+./handwritten-characters/*
+handwritten-characters/dataset/Train/*
+handwritten-characters/dataset/Test/*
+handwritten-characters/dataset/Train/#/*
